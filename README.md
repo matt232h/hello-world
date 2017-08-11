@@ -1,2 +1,4 @@
 # hello-world
-Journey starts with a first step.
+A journey starts with a first step.
+
+Hello World! It's Matt.
